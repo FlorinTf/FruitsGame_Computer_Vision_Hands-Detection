@@ -1,5 +1,7 @@
 # FruitsGame_Computer_Vision_Hands-Detection!
-It is an interactive game based on Computer Vision. It is made in Python with opencv and pygame based on Hand detection
+It is an web cam interactive game based on Computer Vision. It is made in Python with opencv and pygame based on Hand detection.
+
+You can see a video with this game on my youtube channel - <a href="https://www.youtube.com/watch?v=j0QsrOLacF0" target="_blank">Fruits Game</a></p>&nbsp;</div><br /><p></p>
 
 ![Computer Vision my first project Opencv Python](https://user-images.githubusercontent.com/96166795/156918903-db0d05aa-9d1b-4cba-94fd-a0806737da6c.jpg)
 
